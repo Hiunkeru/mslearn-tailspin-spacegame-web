@@ -30,4 +30,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 
-cambios
+[![Build Status](https://dev.azure.com/Space-Web/Space%20Web/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Space-Web/Space%20Web/_build/latest?definitionId=2&branchName=master)
